@@ -1,139 +1,77 @@
-````html id="uq8v3e"
-<div align="center">
+User:
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Najwa%20Zahra&fontAlign=50&fontAlignY=40&color=0:0D1117,100:ff69b4&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20UI%20Designer&descAlignY=60" />
+[Image: GitHub Profile.jpeg]
 
-</div>
+tolong buatkan saya profile github di readmi yang menarik dan interaktif seperti seorang profesional developer dengan referensi sebagai berikut
 
-<br>
+Assistant:
 
-<div align="center">
+Berikut contoh README GitHub yang menarik, profesional, dan interaktif seperti contoh yang kamu berikan, cocok untuk profil developer modern (mis. React / Next.js / TypeScript). Kamu bisa langsung gunakan di repo profil GitHub kamu (nama repo harus sama dengan username GitHub-mu).
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Najwa+Zahra;Frontend+Developer;UI+Designer;Building+modern+web+experiences" />
+``markdown
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+Nurmuhammet's+GitHub;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Clean+Code+%7C+Scalable+Apps+%7C+UI/UX" alt="Typing SVG" />
+</p>
 
-</div>
+👋 About Me
+Hi, I’m Nurmuhammet Altybaev — a passionate Frontend Developer focused on building efficient, scalable, and visually appealing web applications.  
+I enjoy crafting clean UI/UX, strong architecture patterns, and writing maintainable code.
 
----
+• 💡 Currently building with React, Next.js, and TypeScript
+• 🧠 Learning Web Performance Optimization and System Design
+• 🤝 Open to collaboration on web projects & modern SaaS products
+• 🌍 Based in Bishkek, Kyrgyzstan
 
-<div align="center">
+🧩 Technologies & Tools
+Core Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,sass,git,github" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=najwazahra24&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" />
+Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redux,emotion,tailwind,graphql,nodejs" />
+</p>
 
-</div>
+🧠 My Focus Areas
+• Modular and maintainable frontend architecture  
+• Component-driven development using React/Next.js  
+• API integration and state management  
+• CI/CD and team collaboration using Git & GitHub  
 
-<br>
+📊 GitHub Stats
 
-<table align="center">
-<tr border="none">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joanimm&showicons=true&theme=tokyonight&hideborder=true" alt="Github Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joanimm&theme=tokyonight&hideborder=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanimm&layout=compact&theme=tokyonight&hideborder=true" alt="Top Languages" />
+</p>
 
-<td width="50%" align="left">
+🤝 Connect With Me
 
-### 🌸 About Me
+<p align="center">
+  <a href="https://t.me/joanimm"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://wa.me/996XXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nurmuhammet-altybaev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://about-me-git-joanimm.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
-```yaml
-name: Najwa Zahra
+🏆 Achievements
+• 🔹 3K+ total contributions
+• 🌱 Continuous open-source collaboration
+• 💎 Constant learner in modern JavaScript ecosystem
 
-role:
-  [
-    "UI Designer",
-    "Front-End Developer"
-  ]
+💬 Quote
+> "Code is like humor. When you have to explain it, it’s bad."
 
-focus:
-  [
-    "Modern Interfaces",
-    "Responsive Design",
-    "Frontend Experiences"
-  ]
+⭐ Feel free to explore my repositories or reach out for collaboration!
+`
 
-currently_learning:
-  [
-    "React",
-    "Laravel",
-    "UI/UX"
-  ]
-````
+Penjelasan Singkat:
+• Menggunakan animasi teks dari readme-typing-svg agar terlihat interaktif.  
+• Statistik diambil dari GitHub Readme Stats.  
+• Ikon teknologi menggunakan skillicons.dev.  
+• Semua link dan username bisa kamu sesuaikan (joanimm, vercel.app`, nomor WhatsApp, dll).  
 
-</td>
-
-<td width="50%" align="center">
-
-<img width="90%" src="https://github-readme-stats.vercel.app/api?username=najwazahra24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff" />
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 💻 Tech Stack
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,figma,ps,blender,postman&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-# 🌐 Connect With Me
-
-<br>
-
-<a href="https://linkedin.com/in/najwa-khoirotuz-zahra">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=ff69b4" />
-</a>
-
-<a href="https://instagram.com/nanahere4u_">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=ff69b4" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-# 📊 Statistics
-
-<br>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=najwazahra24&theme=radical&hide_border=true&background=0D1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najwazahra24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff69b4&text_color=ffffff" />
-
-</div>
-
----
-
-<div align="center">
-
-# 🌸 Contribution Graph
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=najwazahra24&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💖 Designed with dark pink aesthetic vibes
-
-</div>
-```
+Kamu mau saya ubah teksnya agar pakai Bahasa Indonesia profesional (misalnya untuk audiens lokal/recruiter Indonesia)?
