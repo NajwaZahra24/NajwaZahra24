@@ -1,13 +1,3 @@
-User:
-
-[Image: GitHub Profile.jpeg]
-
-tolong buatkan saya profile github di readmi yang menarik dan interaktif seperti seorang profesional developer dengan referensi sebagai berikut
-
-Assistant:
-
-Berikut contoh README GitHub yang menarik, profesional, dan interaktif seperti contoh yang kamu berikan, cocok untuk profil developer modern (mis. React / Next.js / TypeScript). Kamu bisa langsung gunakan di repo profil GitHub kamu (nama repo harus sama dengan username GitHub-mu).
-
 ``markdown
 <!-- Banner / Header -->
 <p align="center">
@@ -66,12 +56,3 @@ Frameworks & Libraries
 > "Code is like humor. When you have to explain it, it’s bad."
 
 ⭐ Feel free to explore my repositories or reach out for collaboration!
-`
-
-Penjelasan Singkat:
-• Menggunakan animasi teks dari readme-typing-svg agar terlihat interaktif.  
-• Statistik diambil dari GitHub Readme Stats.  
-• Ikon teknologi menggunakan skillicons.dev.  
-• Semua link dan username bisa kamu sesuaikan (joanimm, vercel.app`, nomor WhatsApp, dll).  
-
-Kamu mau saya ubah teksnya agar pakai Bahasa Indonesia profesional (misalnya untuk audiens lokal/recruiter Indonesia)?
