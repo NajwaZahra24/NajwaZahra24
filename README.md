@@ -104,18 +104,20 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joanimm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=f472b6&text_color=cdd6f4&rank_icon=github" height="165" alt="GitHub Stats"/>
+<!-- Stats + Top Languages (menggunakan stats.hyochan.dev — lebih stabil) -->
+<img src="https://github-readme-stats.hyochan.dev/api?username=NajwaZahra24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=f472b6&text_color=cdd6f4&rank_icon=github" height="165" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanimm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=cdd6f4" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.hyochan.dev/api/top-langs/?username=NajwaZahra24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=cdd6f4&langs_count=8" height="165" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joanimm&theme=tokyonight&hide_border=true&background=0d1117&ring=f472b6&fire=f472b6&currStreakLabel=f472b6&sideLabels=cdd6f4&sideNums=cdd6f4&dates=6c7086&currStreakNum=ffffff" alt="GitHub Streak"/>
+<!-- Streak Stats (git.io/streak-stats — lebih stabil dari herokuapp) -->
+<img src="https://streak-stats.demolab.com/?user=NajwaZahra24&theme=tokyonight&hide_border=true&background=0d1117&ring=f472b6&fire=f472b6&currStreakLabel=f472b6&sideLabels=cdd6f4&sideNums=cdd6f4&dates=6c7086&currStreakNum=ffffff" alt="GitHub Streak"/>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joanimm&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=f472b6&line=f472b6&point=ffffff&area=true&area_color=f472b6" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NajwaZahra24&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=f472b6&line=f472b6&point=ffffff&area=true&area_color=f472b6" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -127,7 +129,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=joanimm&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NajwaZahra24&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub Trophies"/>
 
 </div>
 
@@ -142,7 +144,7 @@
 <!-- Uncomment and fill in when you have pinned projects:
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=NajwaZahra24&repo=YOUR-REPO-NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=f472b6&text_color=cdd6f4)](https://github.com/NajwaZahra24/YOUR-REPO-NAME)
+[![Project Card](https://github-readme-stats.hyochan.dev/api/pin/?username=NajwaZahra24&repo=YOUR-REPO-NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=f472b6&text_color=cdd6f4)](https://github.com/NajwaZahra24/YOUR-REPO-NAME)
 
 </div>
 -->
@@ -183,11 +185,11 @@
 
 <div align="center">
 
-<!-- Snake animation -->
+<!-- 🐍 Snake Animation — generate dulu via GitHub Actions, lihat instruksi di bawah -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NajwaZahra24/NajwaZahra24/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NajwaZahra24/NajwaZahra24/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/NajwaZahra24/NajwaZahra24/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/NajwaZahra24/NajwaZahra24/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 <br/>
