@@ -104,10 +104,10 @@
 
 <div align="center">
 
-<!-- Stats + Top Languages (menggunakan stats.hyochan.dev — lebih stabil) -->
-<img src="https://github-readme-stats.hyochan.dev/api?username=NajwaZahra24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=f472b6&text_color=cdd6f4&rank_icon=github" height="165" alt="GitHub Stats"/>
+<!-- Stats + Top Languages -->
+<img src="https://github-readme-stats-tau-six-94.vercel.app/api?username=NajwaZahra24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=f472b6&text_color=cdd6f4&rank_icon=github" height="165" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.hyochan.dev/api/top-langs/?username=NajwaZahra24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=cdd6f4&langs_count=8" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats-tau-six-94.vercel.app/api/top-langs/?username=NajwaZahra24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=cdd6f4&langs_count=8" height="165" alt="Top Languages"/>
 
 <br/><br/>
 
