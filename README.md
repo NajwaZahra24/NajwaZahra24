@@ -1,62 +1,17 @@
-```html id="uj7v6t"
 <h1 align="center">Hi 👋, I'm Najwa Zahra!</h1>
 <h3 align="center">A passionate frontend developer from Sidoarjo</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=najwazahra24&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="najwazahra24" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=najwazahra24&label=Profile%20views&color=0e75b6&style=flat" alt="najwazahra24" /> </p>
 
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=najwazahra24&theme=tokyonight&no-frame=true&row=1&column=6" alt="najwazahra24" />
-</div>
-
----
-
-### 👩‍💻 About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=najwazahra24" alt="najwazahra24" /></a> </p>
 
 - 🔭 I’m currently study on **Skomda**
 
----
-
-### 🌐 Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/najwa-khoirotuz-zahra" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-
-  <a href="https://instagram.com/nanahere4u_" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/najwa-khoirotuz-zahra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="najwa-khoirotuz-zahra" height="30" width="40" /></a>
+<a href="https://instagram.com/nanahere4u_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nanahere4u_" height="30" width="40" /></a>
 </p>
 
----
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,figma,ps,blender,postman" />
-
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=najwazahra24&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najwazahra24&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=najwazahra24&theme=tokyonight&hide_border=true" />
-</div>
-```
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
