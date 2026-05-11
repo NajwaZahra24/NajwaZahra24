@@ -23,26 +23,44 @@
 
 ## 🌸 About Me
 
-```typescript
-const nana = {
-  name:        "Najwa Zahra",
-  alias:       "Nana 🌸",
-  location:    "Sidoarjo, Indonesia 🇮🇩",
-  role:        "Frontend Developer & UI Designer",
+<table>
+  <tr>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=2500&pause=800&color=F472B6&multiline=true&width=420&height=100&lines=const+nana+%3D+%7B;++name%3A+%22Najwa+Zahra%22%2C+%2F%2F+Nana+🌸;++location%3A+%22Sidoarjo%2C+Indonesia+🇮🇩%22;++role%3A+%22Frontend+Dev+%26+UI+Designer%22%0A%7D" alt="code typing"/>
+    </td>
+    <td>
+      <p>Hi there! I'm <strong>Nana</strong> — a passionate Frontend Developer and UI Designer who loves crafting modern, responsive, and visually appealing web experiences. 💖</p>
+      <p>I enjoy designing clean interfaces, building user-friendly layouts, and turning creative ideas into meaningful digital products.</p>
+    </td>
+  </tr>
+</table>
 
-  focus: [
-    "Modern & responsive web interfaces",
-    "User-friendly UI/UX experiences",
-    "Scalable frontend architecture",
-    "Web performance optimization",
-  ],
+<br/>
 
-  currentlyLearning: ["Advanced Next.js", "Web Vitals", "Design Systems"],
-  openTo:            "Collaboration on modern web & digital products 🤝",
-
-  funFact: "I turn coffee ☕ into clean, beautiful UI",
-};
-```
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎯 Focus Areas</h4>
+      <ul>
+        <li>🖥️ Modern & responsive web interfaces</li>
+        <li>👤 User-friendly UI/UX experiences</li>
+        <li>🏗️ Scalable frontend architecture</li>
+        <li>⚡ Web performance optimization</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📚 Currently Learning</h4>
+      <img src="https://img.shields.io/badge/Advanced%20Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=f472b6"/>
+      <img src="https://img.shields.io/badge/Web%20Vitals-0d1117?style=flat-square&logo=googlechrome&logoColor=f472b6"/>
+      <img src="https://img.shields.io/badge/Design%20Systems-0d1117?style=flat-square&logo=figma&logoColor=f472b6"/>
+      <br/><br/>
+      <h4>🤝 Open To</h4>
+      <p>Collaboration on modern web apps &amp; digital products!</p>
+      <h4>☕ Fun Fact</h4>
+      <p><em>"I turn coffee into clean, beautiful UI"</em></p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -77,35 +95,6 @@ const nana = {
 </p>
 
 </div>
-
-<br/>
-
----
-
-## 🎯 Focus Areas
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-**🖌️ UI/UX Design**
-- Responsive & mobile-first layouts
-- Clean visual hierarchy & typography
-- User-centered design thinking
-- Figma prototyping & design systems
-
-</td>
-    <td valign="top" width="50%">
-
-**⚙️ Frontend Engineering**
-- Component-based architecture (React)
-- Server-side rendering with Next.js
-- TypeScript for scalable codebases
-- Performance optimization & best practices
-
-</td>
-  </tr>
-</table>
 
 <br/>
 
